@@ -39,7 +39,6 @@ Listar el número de departamento y el máximo salario en cada uno de ellos.
 Mostrar los nombres de los empleados que se repiten indicando cuántos hay del mismo
 en orden descendente.
 */
-select 
 
 /* 8
 Mostrar en una fila cuántos empleados son jefes de departamento
