@@ -3,23 +3,22 @@ Ejemplos de SQL usando Oracle como gestor de base de datos. Aunque para algunos 
 
 # Tabla de contenido
 - [Contenido](#Contenido)
-  - [Referencias Oracle](#Referencias-Oracle)
   - [Schema HR](#Schema-HR)
   - [services](#services)
 - [Autoevaluación](#Autoevaluación)
 - [Tutoriales](#Tutoriales)
+- [Referencias Oracle](#Referencias-Oracle)
  
 # Contenido
 Se empieza desde selects simples y se va avanzando en complejidad al ir añadiendo el uso de funciones, subconsultas, joins. Luego se continua con algunos ejercicios de DML y DDL.
-## Referencias Oracle
-  Contienen documentación perteneciente a Oracle. Para obtener las últimas versiones u otras se pueden obtener desde la página oficial de Oracle ya que facilita toda la documentación de sus productos. Además del software para poder probarlo.
-  - [Database Limits](https://docs.oracle.com/cd/B28359_01/server.111/b28320/limits.htm#REFRN004)
-  - [SQL Language Reference](https://docs.oracle.com/cd/B28359_01/server.111/b28286/toc.htm)
 ## Schema HR
   Incluye tres scripts que generan los objetos del esquema HR de Oracle. Y un script con las instrucciones para la creación de un usuario con el cual trabajar.
+
+  Además, una imagen con el esquema relacional de las tablas.
 ## services
-  Ejemplos de archivos para parar e iniciar los servicios que se encargan de que el sistema gestor de base de datos esté operativo. El nombre del servicio puede ser diferente según el nombre de la base de datos o la versión del sistema gestor.
-  Si la base de datos no se utiliza se desaprovecha recursos de la máquina. Por ejemplo, se puede estar consumiendo 1 o 2GB de memoria RAM. Es por ello, que se puede tener al RDBMS detenido si no se lo utiliza.
+  Ejemplos de archivos para parar e iniciar los servicios que se encargan de que el sistema gestor de base de datos esté operativo. El nombre del servicio puede ser diferente según el nombre de la base de datos o la versión del sistema gestor. Comprobar con los servicios que se tenga.
+
+  Si la base de datos no se utiliza se desaprovecha recursos de la máquina. Por ejemplo, se puede estar consumiendo 1 o 2GB de memoria RAM. Es por ello, que se puede tener al RDBMS (Sistema gestor de bases de datos relacional) detenido si no se lo utiliza.
 # Autoevaluación
 - [Introducción a bases de datos](https://forms.gle/NYw97A2Km5ufQR1L6)
 - [Introducción a diseño de base de datos](https://forms.gle/Da1q6LeBmBjkzr2v5)
@@ -30,3 +29,7 @@ Se empieza desde selects simples y se va avanzando en complejidad al ir añadien
 - [Instalar Oracle Express Edition XE 18c (Windows)](https://youtu.be/QAAeIQQYN_A)
 - [Desinstalar Oracle Express Edition XE 18c (Windows)](https://youtu.be/t52JaQWfrE8)
 - [Crear esquema de ejemplo HR en Oracle XE](https://youtu.be/GLbT72Hm83M)
+# Referencias Oracle
+  Documentación perteneciente a Oracle. Para obtener las últimas versiones u otras se pueden obtener desde la página oficial de Oracle ya que facilita toda la documentación de sus productos. Además del software para poder probarlo.
+  - [Database Limits](https://docs.oracle.com/cd/B28359_01/server.111/b28320/limits.htm#REFRN004)
+  - [SQL Language Reference](https://docs.oracle.com/cd/B28359_01/server.111/b28286/toc.htm)
