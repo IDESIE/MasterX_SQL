@@ -4,7 +4,7 @@ Ejemplos de SQL usando Oracle como gestor de base de datos. Aunque para algunos 
 # Tabla de contenido
 - [Contenido](#Contenido)
   - [1 Select simples](#1-Select-simples)
-  - [2 JOINS](#2-JOINS)
+  - [2 JOIN y Subconsultas](#2-JOIN-y-Subconsultas)
   - [3 DML](#3-DML)
   - [4 DDL](#4-DDL)
   - [Schema Alegra](#Schema-Alegra)
@@ -20,7 +20,7 @@ Se empieza desde selects simples y se va avanzando en complejidad al ir añadien
 ## 1 Select simples
 Ejercicios básicos con select. En donde se trabaja las condiciones a utilizar en WHERE, uso de funciones, y funcionalidad básica.
 
-## 2 JOINS
+## 2 JOIN y Subconsultas
 Ejercicios donde es necesario el uso de JOIN o de subconsultas. Y además lo visto en el uso de selects simples.
 
 ## 3 DML
