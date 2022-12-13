@@ -7,6 +7,7 @@ Ejemplos de SQL usando Oracle como gestor de base de datos. Aunque para algunos 
   - [2 JOIN y Subconsultas](#2-JOIN-y-Subconsultas)
   - [3 DML](#3-DML)
   - [4 DDL](#4-DDL)
+  - [docs](#docs)
   - [Schema Alegra](#Schema-Alegra)
   - [Schema HR](#Schema-HR)
   - [services](#services)
@@ -28,6 +29,9 @@ Ejercicios con sentencias INSERT, DELETE, UPDATE.
 
 ## 4 DDL
 Ejercicios con sentencias que modifican la estructura del objeto de base de datos o su definición.
+
+## docs
+Presentaciones y documentos.
 
 ## Schema Alegra
   Incluye script que genera los objetos del esquema Alegra.
