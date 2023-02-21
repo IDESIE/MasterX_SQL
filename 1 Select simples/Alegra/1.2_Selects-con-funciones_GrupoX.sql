@@ -24,8 +24,11 @@ del floorid 1. Redondeado a dos dígitos.
 */
 
 /* 4
-Listar el número de componentes que tienen indicado el espacio y el número de componentes total.
-del facility 1
+¿Cuántos componentes tienen espacio? ¿Cuántos componentes hay?
+En el facility 1. Ej.
+ConEspacio  Componentes
+----------------------------
+3500  4000
 */
 
 /* 5
