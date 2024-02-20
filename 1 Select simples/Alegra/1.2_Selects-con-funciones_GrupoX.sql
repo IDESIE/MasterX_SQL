@@ -52,7 +52,7 @@ del facility 1.
 
 /* 8
 Mostrar el porcentaje de componentes que tienen fecha de inicio de garantía
-de la planta 1.
+del facility 1.
 */
 
 /* 9
