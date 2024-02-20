@@ -87,7 +87,7 @@ where facilityid = 1;
 
 /* 9
 Listar las cuatro primeras letras del nombre de los espacios sin repetir
-del facility 1. 
+de la planta 1. 
 En orden ascendente.
 Ejemplo:
 Aula
