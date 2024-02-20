@@ -75,7 +75,7 @@ del facility 1.
 */
 select count(spaceid)
 from components
-where name like '%Aula%';
+where facilityId = 1 and lower(name) like '%aula%';
 
 /* 8
 Mostrar el porcentaje de componentes que tienen fecha de inicio de garantía
